@@ -4,6 +4,7 @@ This is a web app for converting sentences in active voice to passive voice usin
 
 ## Instructions
 Run the following commands to install the Styleformer library:
+- `git clone https://github.com/PrithivirajDamodaran/Styleformer.git`
 - `cd Styleformer`
 - `pip install .`
 
